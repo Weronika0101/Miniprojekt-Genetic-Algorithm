@@ -27,7 +27,7 @@ najlepszego rozwiązania znalezionego w trakcie przebiegu metody
 - zawarta jest metoda wyliczająca przystosowanie danego osobnika, metoda mutująca danego osobnika oraz metoda pozwalająca skrzyżować danego osobnika z innym i
 zwracająca utworzone w ten sposób dzieci 
 
-(*INSTRUKCJA OBSLUGI ALGORYTMU GENETYCZNEGO*)
+# *INSTRUKCJA OBSLUGI ALGORYTMU GENETYCZNEGO*
 
 Aby uruchomić algorytm, w klasie main tworzymy obiekt CKnapsackProblem opisujący nasz problem.Obiekt posiada składowe:
 -liczba przedmiotów
